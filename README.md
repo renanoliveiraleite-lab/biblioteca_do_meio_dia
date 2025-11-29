@@ -26,7 +26,7 @@ Execute o script `02_InsertTable.sql` para inserir dados de demonstração em to
 
 ### 3. Manipulação de Dados (DML - SELECT, UPDATE, DELETE)
 
-Execute o script `03_Manipucao.sql`. Este arquivo demonstra:
+Execute o script `03_Manipulacao.sql`. Este arquivo demonstra:
 
 * **Consultas (SELECT):** Uso de `JOIN`, `WHERE`, `ORDER BY`, `LIMIT` e `GROUP BY`.
 * **Atualizações (UPDATE):** Correções de dados e mudanças de status.
